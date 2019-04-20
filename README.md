@@ -28,3 +28,5 @@ Data will be persisted in the `data` directory.
 2. Wipe data: `scripts/clean.sh`
 
 The last command will wipe out all data, such that when you restart services you will need to run setup.sh again and data is gone.
+
+Reference: https://www.marcolancini.it/2017/blog-vault/
